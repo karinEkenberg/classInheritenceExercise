@@ -1,7 +1,3 @@
-Certainly! Below is a simple README file in English for the provided C# code:
-
----
-
 # C# Class Inheritance Example
 
 ## Overview
@@ -29,9 +25,4 @@ To run the application:
 1. Open the solution in a C# IDE (Integrated Development Environment) such as Visual Studio.
 2. Build and run the project.
 
-## License
-This code is provided under the MIT License. See [LICENSE](LICENSE) for details.
 
----
-
-Make sure to create a `LICENSE` file and specify the license terms accordingly. If you're using a different license, update the license section in the README accordingly.
